@@ -1,0 +1,1 @@
+This is a function to calculate phase locking value between EEG/iEEG channels, to extract the brain functional network. This code is modified from the original version developed by Praneeth Namburi (https://uk.mathworks.com/matlabcentral/fileexchange/31600-phase-locking-value). We made modification on the bandpass filter module.
